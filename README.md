@@ -8,7 +8,7 @@ Welcome to my GitHub profile — a place where I experiment, learn, and create c
 - 🎓 Student at UniTBV — Computer Science.  
 - 💻 Passionate about coding, design, and building creative digital projects  
 - 🧠 Currently improving my skills in software development and visual design  
-- ☕ Fueled by coffee and curiosity
+- ☕ Fueled by coffee
   
 ---
 
@@ -17,7 +17,6 @@ Welcome to my GitHub profile — a place where I experiment, learn, and create c
 **Languages & Tools I Use:**
 
 ![Java](https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=openjdk)
-![C](https://img.shields.io/badge/Code-C-blue?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/Code-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/Code-C%23-239120?style=flat-square&logo=csharp)
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python)
