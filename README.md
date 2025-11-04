@@ -1,18 +1,6 @@
-# 👋 Hey there, I'm rual!
-
-Welcome to my GitHub profile — a place where I experiment, learn, and create cool stuff 💻🎨  
-
----
-
-## 🌱 About Me
-- 🎓 Student at UniTBV — Computer Science.  
-- 💻 Passionate about coding, design, and building creative digital projects  
-- 🧠 Currently improving my skills in software development and visual design  
-- ☕ Fueled by coffee
-  
----
-
 ## 🧰 Tech Stack
+
+---
 
 **Languages & Tools I Use:**
 
