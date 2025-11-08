@@ -6,9 +6,6 @@
 
 ![Java](https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=openjdk)
 ![C++](https://img.shields.io/badge/Code-C++-00599C?style=flat-square&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/Code-C%23-239120?style=flat-square&logo=csharp)
-![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/Database-SQL-336791?style=flat-square&logo=postgresql)
 
 **Development Tools:**
 
